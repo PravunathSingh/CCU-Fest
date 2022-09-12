@@ -28,7 +28,7 @@ For styling **Tailwind CSS** has been used.
 
 ### Emojis
 
-- ✨ :sparkles: - Use for feature
-- 🛠️ :refactor: - Use for refactor
-- 🐛 :bug: - Use for bugFixes
-- 🚧 :construction: - Use for wip
+- ✨ - Use for feature
+- 🛠️ - Use for refactor
+- 🐛 - Use for bugFixes
+- 🚧 - Use for wip
