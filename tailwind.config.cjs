@@ -13,7 +13,17 @@ module.exports = {
         '3xl': '6.5rem',
       },
     },
-    extend: {},
+    extend: {
+      colors: {
+        primary: '#1A1A40',
+        secondary: '#191919',
+        'accent-primary': '#E670EB',
+        'accent-secondary': '#79F3D5',
+      },
+      fontFamily: {
+        rubik: ['Rubik', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 };
